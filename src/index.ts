@@ -1,3 +1,3 @@
-export * from './src/health/health.module';
+export * from './health/health.module';
 
-export * from './src/health/health.controller';
+export * from './health/health.controller';
